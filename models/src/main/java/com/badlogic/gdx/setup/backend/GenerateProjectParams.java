@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class GenerateProjectParams {
-	public String gdxVersion = "1.9.12";
+	public String gdxVersion = "1.9.13";
 	public String appName;
 	public String packageName;
 	public String mainClass;

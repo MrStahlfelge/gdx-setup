@@ -303,7 +303,7 @@ public class ClassicProjectTable extends Table  {
         generateButton.addListener(new ChangeListener() {
             @Override
             public void changed(ChangeEvent event, Actor actor) {
-                params.gdxVersion = "1.9.12";
+                params.gdxVersion = "1.9.13";
                 slideDownFadeInTable(new GenerateLoadingTable(params));
             }
         });

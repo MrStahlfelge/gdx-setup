@@ -3,7 +3,7 @@ apply plugin: "idea"
 
 subprojects {
 	ext.appName = 'gdx-setup-webui'
-	ext.gdxVersion = '1.9.12-SNAPSHOT'
+	ext.gdxVersion = '1.9.13'
 	repositories {
 		mavenLocal()
 		mavenCentral()
